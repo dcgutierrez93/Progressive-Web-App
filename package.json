@@ -1,0 +1,23 @@
+{
+  "name": "Progressive-Web-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcgutierrez93/Progressive-Web-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcgutierrez93/Progressive-Web-App/issues"
+  },
+  "homepage": "https://github.com/dcgutierrez93/Progressive-Web-App#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
