@@ -10,8 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/dcgutierrez93/Progressive-Web-App.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+      "pwa",
+      "porgressive",
+      "web",
+      "app"
+  ],
+  "author": "David Gutierrez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dcgutierrez93/Progressive-Web-App/issues"
