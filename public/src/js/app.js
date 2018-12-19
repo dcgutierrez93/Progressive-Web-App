@@ -1,4 +1,5 @@
-// Setting up Service Worker
+// Setting up Service Worker - In the root folder service worker will apply to all pages of the application
+// *** Must be served on Https ***
 if ('serviceWorker' in navigator) {
     // Register a new Service Worker
     navigator.serviceWorker
